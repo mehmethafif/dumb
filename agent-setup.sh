@@ -22,4 +22,3 @@ function install-metricbeat {
 
 install-tools
 install-metricbeat
-
